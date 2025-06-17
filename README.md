@@ -41,24 +41,25 @@ TryHackMe is an incredible platform for hands-on cybersecurity learning. Through
 
 ### Easy Challenges
 
-| #   | Challenge                      | Writeup                                | Language | Status  |
-|-----|--------------------------------|---------------------------------------|----------|---------|
-| [#1](Easy/challenge1.md) | Basic Web Exploitation         | [Writeup](Easy/challenge1.md)          | Python   | ✅ Solved |
-| [#2](Easy/challenge2.md) | Intro to Cryptography           | [Writeup](Easy/challenge2.md)          | Python   | ✅ Solved |
+| #   | Challenge                  | Writeup                                                                 | Language | Status     |
+|-----|----------------------------|-------------------------------------------------------------------------|----------|------------|
+| #1  | Basic Web Exploitation     | [View on Medium](https://medium.com/@alivexd/basic-web-exploitation)    | Python   | ✅ Solved   |
+| #2  | Intro to Cryptography      | [View on Medium](https://medium.com/@alivexd/intro-to-cryptography)     | Python   | ✅ Solved   |
 
 ### Medium Challenges
 
-| #   | Challenge                      | Writeup                                | Language | Status  |
-|-----|--------------------------------|---------------------------------------|----------|---------|
-| [#1](Medium/challenge1.md) | Privilege Escalation            | [Writeup](Medium/challenge1.md)        | Bash     | ✅ Solved |
-| [#2](Medium/challenge2.md) | Network Exploitation            | [Writeup](Medium/challenge2.md)        | Python   | ✅ Solved |
+| #   | Challenge                  | Writeup                                                                 | Language | Status     |
+|-----|----------------------------|-------------------------------------------------------------------------|----------|------------|
+| #1  | Privilege Escalation       | [View on Medium](https://medium.com/@alivexd/privilege-escalation)      | Bash     | ✅ Solved   |
+| #2  | Network Exploitation       | [View on Medium](https://medium.com/@alivexd/network-exploitation)      | Python   | ✅ Solved   |
 
 ### Hard Challenges
 
-| #   | Challenge                      | Writeup                                | Language | Status  |
-|-----|--------------------------------|---------------------------------------|----------|---------|
-| [#1](Hard/challenge1.md)   | Advanced Binary Exploitation     | [Writeup](Hard/challenge1.md)          | C        | ✅ Solved |
-| [#2](Hard/challenge2.md)   | Complex Forensics & OSINT       | [Writeup](Hard/challenge2.md)          | Python   | ✅ Solved |
+| #   | Challenge                      | Writeup                                                                 | Language | Status     |
+|-----|--------------------------------|-------------------------------------------------------------------------|----------|------------|
+| #1  | Advanced Binary Exploitation   | [View on Medium](https://medium.com/@alivexd/binary-exploitation-thm)   | C        | ✅ Solved   |
+| #2  | Complex Forensics & OSINT      | [View on Medium](https://medium.com/@alivexd/forensics-osint-thm)       | Python   | ✅ Solved   |
+
 
 ---
 
