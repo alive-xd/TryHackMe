@@ -1,12 +1,8 @@
 # 🛡️ TryHackMe CTF Writeups 
 
 <p align="center">
-  <a href="https://tryhackme.com/p/alivexd" target="_blank" rel="noopener noreferrer">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/alivexd.png" alt="TryHackMe Profile" width="150" style="border-radius:12px;" />
-  </a>
-  <br />
-  <a href="https://tryhackme.com/p/alivexd" target="_blank" rel="noopener noreferrer" style="font-weight:bold; font-size:16px; text-decoration:none; color:#5A5A5A;">
-    My TryHackMe Profile
+  <a href="https://tryhackme.com/p/alivexd" target="_blank" rel="noopener noreferrer" style="display:inline-block; padding:12px 24px; background:#ff5722; color:#fff; font-weight:bold; border-radius:8px; text-decoration:none; font-size:16px;">
+    🚀 Visit My TryHackMe Profile
   </a>
 </p>
 
