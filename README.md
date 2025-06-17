@@ -6,6 +6,31 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://tryhackme.com/p/alivexd" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TryHackMe-alivexd-orange?style=for-the-badge&logo=tryhackme" alt="TryHackMe Profile Badge" />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://tryhackme.com/p/alivexd" target="_blank" rel="noopener noreferrer" style="font-size:18px; font-weight:bold; text-decoration:none; color:#FF5722;">
+    🔐 My TryHackMe Profile
+  </a>
+</p>
+
+
+<a href="https://tryhackme.com/p/alivexd" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TryHackMe-alivexd-orange?style=for-the-badge&logo=tryhackme" alt="TryHackMe Profile Badge" />
+</a>
+
+
+<a href="https://tryhackme.com/p/alivexd" target="_blank" rel="noopener noreferrer" style="font-size:18px; font-weight:bold; text-decoration:none; color:#FF5722;">
+  🔐 My TryHackMe Profile
+</a>
+
+
 ---
 
 Welcome to my **TryHackMe CTF Writeups** repository! This is where I document detailed, step-by-step solutions to various TryHackMe challenges I have solved. Whether you're a beginner or looking to tackle more advanced problems, you'll find insightful explanations, helpful tips, and useful scripts here to boost your cybersecurity skills.
