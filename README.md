@@ -1,9 +1,24 @@
 # 🛡️ Capture The Flag (CTF) Writeups Repository
 
-[![GitHub stars](https://img.shields.io/github/stars/alive-xd/your-repo-name?style=social)](https://github.com/alive-xd/your-repo-name/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/alive-xd/your-repo-name?style=social)](https://github.com/alive-xd/your-repo-name/network)
-[![GitHub issues](https://img.shields.io/github/issues/alive-xd/your-repo-name)](https://github.com/alive-xd/your-repo-name/issues)
-[![License](https://img.shields.io/github/license/alive-xd/your-repo-name)](LICENSE)
+<p align="center">
+  <a href="https://tryhackme.com/p/alivexd" target="_blank" rel="noopener noreferrer">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/alivexd.png" alt="TryHackMe Profile" width="150" style="border-radius:12px;" />
+  </a>
+  <br />
+  <a href="https://tryhackme.com/p/alivexd" target="_blank" rel="noopener noreferrer" style="font-weight:bold; font-size:16px; text-decoration:none; color:#5A5A5A;">
+    My TryHackMe Profile
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alive-xd" target="_blank" rel="noopener noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/86476862?v=4&s=150" alt="GitHub Profile" width="150" style="border-radius:12px;" />
+  </a>
+  <br />
+  <a href="https://github.com/alive-xd" target="_blank" rel="noopener noreferrer" style="font-weight:bold; font-size:16px; text-decoration:none; color:#5A5A5A;">
+    My GitHub Profile
+  </a>
+</p>
 
 ---
 
