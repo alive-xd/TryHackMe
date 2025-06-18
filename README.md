@@ -41,24 +41,24 @@ TryHackMe is an incredible platform for hands-on cybersecurity learning. Through
 
 ### Easy Challenges
 
-| #   | Challenge                  | Writeup                                                                 | Language | Status     |
-|-----|----------------------------|-------------------------------------------------------------------------|----------|------------|
-| #1  | Basic Web Exploitation     | [View on Medium](https://medium.com/@alivexd/basic-web-exploitation)    | Python   | ✅ Solved   |
-| #2  | Intro to Cryptography      | [View on Medium](https://medium.com/@alivexd/intro-to-cryptography)     | Python   | ✅ Solved   |
+| #   | Challenge                  | Writeup                                                                 | Status     |
+|-----|----------------------------|-------------------------------------------------------------------------|------------|
+| #1  | Offensive Security Intro | [View on Medium](https://alivexd.medium.com/intro-to-offensive-security-832f2a3cc79f)    |  ✅ Solved   |
+| #2  | Intro to Cryptography      | [View on Medium](https://medium.com/@alivexd/intro-to-cryptography)     |  ✅ Solved   |
 
 ### Medium Challenges
 
-| #   | Challenge                  | Writeup                                                                 | Language | Status     |
-|-----|----------------------------|-------------------------------------------------------------------------|----------|------------|
-| #1  | Privilege Escalation       | [View on Medium](https://medium.com/@alivexd/privilege-escalation)      | Bash     | ✅ Solved   |
-| #2  | Network Exploitation       | [View on Medium](https://medium.com/@alivexd/network-exploitation)      | Python   | ✅ Solved   |
+| #   | Challenge                  | Writeup                                                                 | Status     |
+|-----|----------------------------|-------------------------------------------------------------------------|------------|
+| #1  | Privilege Escalation       | [View on Medium](https://medium.com/@alivexd/privilege-escalation)      |  ✅ Solved   |
+
 
 ### Hard Challenges
 
 | #   | Challenge                      | Writeup                                                                 | Language | Status     |
 |-----|--------------------------------|-------------------------------------------------------------------------|----------|------------|
 | #1  | Advanced Binary Exploitation   | [View on Medium](https://medium.com/@alivexd/binary-exploitation-thm)   | C        | ✅ Solved   |
-| #2  | Complex Forensics & OSINT      | [View on Medium](https://medium.com/@alivexd/forensics-osint-thm)       | Python   | ✅ Solved   |
+
 
 
 ---
