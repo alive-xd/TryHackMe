@@ -39,25 +39,64 @@ TryHackMe is an incredible platform for hands-on cybersecurity learning. Through
 
 ## 📝 Challenge Index
 
-### Easy Challenges
 
-| #   | Challenge                  | Writeup                                                                 | Status     |
-|-----|----------------------------|-------------------------------------------------------------------------|------------|
-| #1  | Offensive Security Intro | [View on Medium](https://alivexd.medium.com/intro-to-offensive-security-832f2a3cc79f)    |  ✅ Solved   |
-| #2  | Intro to Cryptography      | [View on Medium](https://medium.com/@alivexd/intro-to-cryptography)     |  ✅ Solved   |
+## 🟢 Easy Challenges
 
-### Medium Challenges
+| #   | Challenge Name                 | 📝 Medium Write-up                                   | Type         | Access | Status     |
+|-----|-------------------------------|-----------------------------------------------------|--------------|--------|------------|
+| 1   | Offensive Security Intro       | [View Solution](https://medium.com/@yourusername/offensive-security-intro) | Walkthrough  | Free   | ✅ Solved  |
+| 2   | Intro to Cryptography          | [View Solution](https://medium.com/@yourusername/intro-to-cryptography)    | Challenge    | Free   | ✅ Solved  |
+| 3   | Basic Web Exploitation         | [View Solution](https://medium.com/@yourusername/basic-web-exploitation)   | Challenge    | Free   | ✅ Solved  |
+| 4   | Network Scanning Basics        | [View Solution](https://medium.com/@yourusername/network-scanning-basics)  | Walkthrough  | Free   | ✅ Solved  |
+| 5   | Password Attacks               | [View Solution](https://medium.com/@yourusername/password-attacks)         | Challenge    | Free   | ✅ Solved  |
+| 6   | Basic OSINT                   | [View Solution](https://medium.com/@yourusername/basic-osint)              | Tutorial     | Free   | ✅ Solved  |
+| 7   | Introduction to Linux          | [View Solution](https://medium.com/@yourusername/intro-linux)              | Walkthrough  | Free   | ✅ Solved  |
+| 8   | Cryptography Basics            | [View Solution](https://medium.com/@yourusername/crypto-basics)            | Challenge    | Free   | ✅ Solved  |
+| 9   | Simple Forensics               | [View Solution](https://medium.com/@yourusername/simple-forensics)         | Walkthrough  | Free   | ✅ Solved  |
+| 10  | Basic SQL Injection            | [View Solution](https://medium.com/@yourusername/basic-sql-injection)      | Challenge    | Free   | ✅ Solved  |
+| 11  | Windows Fundamentals           | [View Solution](https://medium.com/@yourusername/windows-fundamentals)     | Tutorial     | Free   | ✅ Solved  |
+| 12  | Linux Privilege Escalation     | [View Solution](https://medium.com/@yourusername/linux-privesc)            | Challenge    | Free   | ✅ Solved  |
+| 13  | Introduction to Scripting      | [View Solution](https://medium.com/@yourusername/intro-scripting)          | Tutorial     | Free   | ✅ Solved  |
+| 14  | Intro to Network Security      | [View Solution](https://medium.com/@yourusername/intro-network-security)   | Walkthrough  | Free   | ✅ Solved  |
+| 15  | Password Cracking Basics       | [View Solution](https://medium.com/@yourusername/password-cracking)        | Challenge    | Free   | ✅ Solved  |
+| ... | ...                           | ...                                                 | ...          | ...    | ...        |
 
-| #   | Challenge                  | Writeup                                                                 | Status     |
-|-----|----------------------------|-------------------------------------------------------------------------|------------|
-| #1  | Privilege Escalation       | [View on Medium](https://medium.com/@alivexd/privilege-escalation)      |  ✅ Solved   |
+## 🟡 Medium Challenges
 
+| #   | Challenge Name                 | 📝 Medium Write-up                                   | Type         | Access | Status     |
+|-----|-------------------------------|-----------------------------------------------------|--------------|--------|------------|
+| 1   | Privilege Escalation           | [View Solution](https://medium.com/@yourusername/privilege-escalation)     | Challenge    | Free   | ✅ Solved  |
+| 2   | Web Application Security       | [View Solution](https://medium.com/@yourusername/web-app-security)         | Walkthrough  | Free   | ✅ Solved  |
+| 3   | Intermediate OSINT             | [View Solution](https://medium.com/@yourusername/intermediate-osint)       | Tutorial     | Free   | ✅ Solved  |
+| 4   | Network Exploitation           | [View Solution](https://medium.com/@yourusername/network-exploitation)     | Challenge    | Free   | ✅ Solved  |
+| 5   | Phishing Attack Simulation     | [View Solution](https://medium.com/@yourusername/phishing-simulation)      | CTF          | Free   | ✅ Solved  |
+| 6   | Intermediate Cryptography      | [View Solution](https://medium.com/@yourusername/intermediate-crypto)      | Challenge    | Free   | ✅ Solved  |
+| 7   | Linux Security                 | [View Solution](https://medium.com/@yourusername/linux-security)            | Walkthrough  | Free   | ✅ Solved  |
+| 8   | Metasploit Basics             | [View Solution](https://medium.com/@yourusername/metasploit-basics)        | Tutorial     | Free   | ✅ Solved  |
+| 9   | Windows Exploitation           | [View Solution](https://medium.com/@yourusername/windows-exploitation)     | Challenge    | Free   | ✅ Solved  |
+| 10  | Network Forensics              | [View Solution](https://medium.com/@yourusername/network-forensics)        | Walkthrough  | Free   | ✅ Solved  |
+| ... | ...                           | ...                                                 | ...          | ...    | ...        |
 
-### Hard Challenges
+## 🔴 Hard Challenges
 
-| #   | Challenge                      | Writeup                                                                 | Language | Status     |
-|-----|--------------------------------|-------------------------------------------------------------------------|----------|------------|
-| #1  | Advanced Binary Exploitation   | [View on Medium](https://medium.com/@alivexd/binary-exploitation-thm)   | C        | ✅ Solved   |
+| #   | Challenge Name                 | 📝 Medium Write-up                                   | Type         | Access | Status     |
+|-----|-------------------------------|-----------------------------------------------------|--------------|--------|------------|
+| 1   | Advanced Binary Exploitation   | [View Solution](https://medium.com/@yourusername/advanced-binary-exploitation) | Walkthrough  | Premium| ✅ Solved  |
+| 2   | Reverse Engineering            | [View Solution](https://medium.com/@yourusername/reverse-engineering)         | Challenge    | Premium| ✅ Solved  |
+| 3   | Forensics Deep Dive            | [View Solution](https://medium.com/@yourusername/forensics-deep-dive)         | Walkthrough  | Premium| ✅ Solved  |
+| 4   | Active Directory Attacks       | [View Solution](https://medium.com/@yourusername/active-directory-attacks)    | Challenge    | Premium| ✅ Solved  |
+| 5   | Exploit Development            | [View Solution](https://medium.com/@yourusername/exploit-development)         | Challenge    | Premium| ✅ Solved  |
+| ... | ...                           | ...                                                 | ...          | ...    | ...        |
+
+## 🟣 Insane Challenges
+
+| #   | Challenge Name                 | 📝 Medium Write-up                                   | Type         | Access | Status     |
+|-----|-------------------------------|-----------------------------------------------------|--------------|--------|------------|
+| 1   | Advanced Networking            | [View Solution](https://medium.com/@yourusername/advanced-networking)        | Challenge    | Premium| ✅ Solved  |
+| 2   | Red Team Simulation            | [View Solution](https://medium.com/@yourusername/red-team-simulation)        | CTF          | Premium| ✅ Solved  |
+| 3   | Kernel Exploitation            | [View Solution](https://medium.com/@yourusername/kernel-exploitation)        | Challenge    | Premium| ✅ Solved  |
+| ... | ...                           | ...                                                 | ...          | ...    | ...        |
+
 
 
 
